@@ -1,13 +1,11 @@
 #include<stdio.h>
-
-void hello()
-{
-printf("HELLO WORLD!!!!!!!!!\n");
-printf("GOOD MORNING!!!!!!!\n")
-}
-
 int main()
 {
-hello();
+for(int i=0;i < 100;i++){
+if(i % 3 = 0)
+printf("Fizz ");
+if(i % 5 = 0)
+printf("Buzz ");
+}
 return 0;
 }
