@@ -3,8 +3,8 @@
 void hello()
 {
 printf("HELLO WORLD");
+printf("GOOD MORNING")
 }
-
 
 int main()
 {
