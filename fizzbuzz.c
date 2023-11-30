@@ -2,8 +2,8 @@
 
 void hello()
 {
-printf("HELLO WORLD");
-printf("GOOD MORNING")
+printf("HELLO WORLD!!!!!!!!!\n");
+printf("GOOD MORNING!!!!!!!\n")
 }
 
 int main()
